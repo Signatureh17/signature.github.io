@@ -226,7 +226,7 @@ header h1 a {
   font: 30px/40px 'Yanone Kaffeesatz', sans-serif;
 }
 .navigation li + li {
-  margin-left: 52px;
+  margin-left: 95px;
 }
 .navigation li a {
   position: relative;
